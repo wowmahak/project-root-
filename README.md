@@ -100,6 +100,6 @@ MIT License - See LICENSE for details.
 ---
 
 🔒 **Note**: All test payloads are non-destructive by default.  
-🐛 **Report issues**: [https://github.com//repo/issues](https://github.com/your/repo/issues)  
+🐛 **Report issues**: [https://github.com/wowmahak/repo/issues](https://github.com/wowmahak/repo/issues)  
 📅 **Last updated**: 2025-05-13
 
