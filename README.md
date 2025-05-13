@@ -94,8 +94,7 @@ npm run lint
 npm run build
 ```
 
-##  License
-MIT License - See LICENSE for details.
+
 
 ---
 
