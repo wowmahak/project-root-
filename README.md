@@ -13,3 +13,5 @@ A security tool that detects prototype pollution vulnerabilities in web applicat
 ```bash
 npm install axios chalk  # For JavaScript version
 pip install requests    # For Python version
+
+
