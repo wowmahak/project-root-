@@ -1,16 +1,16 @@
-# 🛡️ Server-Side Prototype Pollution Scanner
+#  Server-Side Prototype Pollution Scanner
 
 ![Security Scanner](https://img.shields.io/badge/security-scanner-brightgreen)
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-green)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![Bash](https://img.shields.io/badge/Bash-5%2B-yellow)
 
-## 🌟 Features
+##  Features
 - **Multi-interface support**: JavaScript, Python, and Bash implementations
 - **Comprehensive testing**: 25+ test cases included
 - **CI/CD ready**: Pre-configured GitHub Actions workflow
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 ```bash
@@ -19,7 +19,7 @@ cd prototype-pollution-scanner
 npm install  # For JavaScript version
 ```
 
-### 🖥️ Usage
+###  Usage
 
 #### Bash Script
 ```bash
@@ -53,7 +53,7 @@ runScan();
 python scanner.py --url https://api.example.com --timeout 5000
 ```
 
-### 📊 Output Format
+###  Output Format
 Example JSON output:
 ```json
 {
@@ -68,7 +68,7 @@ Example JSON output:
 }
 ```
 
-## 🧩 Project Structure
+##  Project Structure
 ```
 .
 ├── bin/            # Bash scripts
@@ -82,7 +82,7 @@ Example JSON output:
     └── unit/
 ```
 
-## 🛠️ Development
+##  Development
 ```bash
 # Run all tests
 npm test
@@ -94,12 +94,12 @@ npm run lint
 npm run build
 ```
 
-## 📜 License
+##  License
 MIT License - See LICENSE for details.
 
 ---
 
-🔒 **Note**: All test payloads are non-destructive by default.  
+ **Note**: All test payloads are non-destructive by default.  
 🐛 **Report issues**: [https://github.com/wowmahak/repo/issues](https://github.com/wowmahak/repo/issues)  
-📅 **Last updated**: 2025-05-13
+ **Last updated**: 2025-05-13
 
